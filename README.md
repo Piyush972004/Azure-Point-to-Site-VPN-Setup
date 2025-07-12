@@ -77,7 +77,7 @@ A Point-to-Site VPN allows you to securely connect a single client device (like 
 
 
 
-- ![Homepage Screenshot](aassets/Screenshot%202025-07-12%20135917.png)
+- ![Homepage Screenshot](assets/Screenshot%202025-07-12%20135917.png)
 - ![Homepage Screenshot](assets/Screenshot%202025-07-12%20135925.png)
 - ![Homepage Screenshot](assets/Screenshot%202025-07-12%20135935.png)
 ---
