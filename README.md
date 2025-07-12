@@ -97,7 +97,7 @@ $rootCert = New-SelfSignedCertificate -Type Custom -KeySpec Signature `
 # Export to file
 Export-Certificate -Cert $rootCert -FilePath "C:\AzureP2SRootCert.cer"
 
-
+```
 - ![Homepage Screenshot](assets/Screenshot%202025-07-12%20140047.png)
 - ![Homepage Screenshot](assets/Screenshot%202025-07-12%20140059.png)
 - ![Homepage Screenshot](assets/Screenshot%202025-07-12%20140120.png)
@@ -108,7 +108,7 @@ Export-Certificate -Cert $rootCert -FilePath "C:\AzureP2SRootCert.cer"
 
 
 
-```
+---
 
 ---
 ## Upload to Azure
